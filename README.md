@@ -1,7 +1,8 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rhkrhyunmin=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=#81DAF5&height=250&section=header" />
 <h4 align="middle"> 인생은 짧고 굷게. </h4> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=81DAF5&height=150&section=footer" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?rhkrhyunmin=anuraghazra&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rhkrhyunmin=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
