@@ -7,7 +7,7 @@
 
 [![Hyunmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhkrhyunmin&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/rhkrhyunmin/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkrhyunmin&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
  
 <br>
 
