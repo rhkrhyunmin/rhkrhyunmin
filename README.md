@@ -1,7 +1,6 @@
 <div align="left">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=#81DAF5&height=250&section=header" />
-Hello Welcome hyunmin's Github
 <img src="https://capsule-render.vercel.app/api?type=waving&color=81DAF5&height=150&section=footer" />
 ---
   
