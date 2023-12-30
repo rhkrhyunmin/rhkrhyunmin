@@ -1,7 +1,7 @@
 <div align="left">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=#81DAF5&height=250&section=header" />
-<h4 align="middle"> 인생은 짧고 굷게. </h4> 
+Hello Welcome hyunmin's Github
 <img src="https://capsule-render.vercel.app/api?type=waving&color=81DAF5&height=150&section=footer" />
 ---
   
