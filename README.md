@@ -1,6 +1,8 @@
 <div align="left">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome Hyunmin'sgithub&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#81DAF5&height=250&section=header" />
+<h4 align="middle"> 인생은 짧고 굷게. </h4> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=81DAF5&height=150&section=footer" />
 ---
   
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/rhkrhyunmin)
