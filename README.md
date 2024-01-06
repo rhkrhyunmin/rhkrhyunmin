@@ -8,7 +8,7 @@
 ![Hyunmin's github stats](https://github-readme-stats.vercel.app/api?username=rhkrhyunmin&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkrhyunmin&layout=compact&theme=tokyonight)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khm0930)](https://solved.ac/khm0930/)
+
  
 <br>
 
@@ -19,6 +19,7 @@
     </a>
     <a href="https://www.notion.so/14d9e459a39443f899021187cde62889">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
+      [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khm0930)](https://solved.ac/khm0930/)
     </a>
 
 <img src="http://mazandi.herokuapp.com/api?handle=khm0930&theme=warm"/>
