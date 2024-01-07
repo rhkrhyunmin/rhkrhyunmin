@@ -48,6 +48,7 @@
     <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/visualStudio-5C2D91?style=for-the-badge&logo=visualStudio&logoColor=black">
     <img src="https://img.shields.io/badge/GodotEngine-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
