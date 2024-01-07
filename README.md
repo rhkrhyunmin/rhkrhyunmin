@@ -37,7 +37,7 @@
     <a href="mailto:rhkrhyunmin@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"> 500257108022001685 
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"> 
 </div><br>
     
 ## 🔨 Once I've Dev Used 🔨
