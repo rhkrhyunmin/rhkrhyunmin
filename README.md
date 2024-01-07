@@ -39,7 +39,7 @@
     </a>
 </div><br>
     
-## 🔨 Once I've used 🔨
+## 🔨 Once I've Dev Used 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
