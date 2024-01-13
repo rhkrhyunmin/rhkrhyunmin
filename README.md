@@ -13,6 +13,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhkrhyunmin&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
+  ## 📖 Baekjoon's log 📖
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khm0930)](https://solved.ac/khm0930/)
 
  <img src="http://mazandi.herokuapp.com/api?handle=khm0930&theme=warm"/>
