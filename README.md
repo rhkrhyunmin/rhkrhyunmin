@@ -14,15 +14,16 @@
  <img src="http://mazandi.herokuapp.com/api?handle=khm0930&theme=warm"/>
 <br>
 
-  ## 💻 DEV's log 💻
-  <div style="display:flex; flex-direction:row;">
-    <a href="https://hyunmin-06.tistory.com/">
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://easyhomputer.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    <a href="https://www.notion.so/14d9e459a39443f899021187cde62889">
+    <a href="https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
-      [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hyunmin-06&theme=default)](https://hyunmin-06.tistory.com)
+  
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
 </div><br>
 
  
