@@ -22,7 +22,7 @@
     <a href="https://www.notion.so/14d9e459a39443f899021187cde62889">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hyunmin-06&theme=default)](https://hyunmin-06.tistory.com)
+      [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hyunmin-06&theme=default)](https://hyunmin-06.tistory.com)
 
 </div><br>
 
