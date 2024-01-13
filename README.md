@@ -19,7 +19,7 @@
     <a href="https://hyunmin-06.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    <a href="https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741">
+    <a href="https://www.notion.so/homputer/Notion-14d9e459a39443f899021187cde62889">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   
