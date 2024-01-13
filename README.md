@@ -13,8 +13,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hyunmin&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkrhyunmin&layout=compact&theme=tokyonight)
-
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khm0930)](https://solved.ac/khm0930/)
 
  <img src="http://mazandi.herokuapp.com/api?handle=khm0930&theme=warm"/>
