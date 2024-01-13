@@ -7,7 +7,7 @@
 
 ![Hyunmin's github stats](https://github-readme-stats.vercel.app/api?username=rhkrhyunmin&show_icons=true&theme=tokyonight)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkrhyunmin&layout=compact&theme=tokyonight)
 
  <img src="http://mazandi.herokuapp.com/api?handle=khm0930&theme=warm"/>
 <br>
@@ -22,7 +22,7 @@
     </a>
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hyunmin-06&theme=default)](https://hyunmin-06.tistory.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkrhyunmin&layout=compact&theme=tokyonight)
+
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khm0930)](https://solved.ac/khm0930/)
 </div><br>
