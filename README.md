@@ -11,6 +11,8 @@
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khm0930)](https://solved.ac/khm0930/)
 
+ https://embed.notion-tools.com/block/html/?c=%3Cimg%20src%3D%22https%3A%2F%2Fghchart.rshah.org%2F219138%2Frhkrhyunmin%22%2F%3Ent
+
  <img src="http://mazandi.herokuapp.com/api?handle=khm0930&theme=warm"/>
 <br>
 
