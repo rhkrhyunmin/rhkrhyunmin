@@ -24,8 +24,6 @@
     </a>
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hyunmin-06&theme=default)](https://hyunmin-06.tistory.com)
 
-
-
 </div><br>
 
  
