@@ -13,12 +13,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhkrhyunmin&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-  ## 📖 Baekjoon's log 📖
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khm0930)](https://solved.ac/khm0930/)
-
- <img src="http://mazandi.herokuapp.com/api?handle=khm0930&theme=warm"/>
-<br>
-
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://hyunmin-06.tistory.com">
@@ -28,7 +22,6 @@
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hyunmin-06&theme=default)](https://hyunmin-06.tistory.com)
 </div><br>
 
  
